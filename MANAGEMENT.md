@@ -4,9 +4,11 @@
 3. Humility
 4. Empathy
 
+_(Is it too on-the-nose to point out the anagram H.I.R.E. hidden in that constellation of superlatives?)_
+
 ## Strategic Objectives
-1. stronger team relations; know people, grow people
-2. monitor team for attrition risk, poor performers, succession planning, single points of failure
+1. stronger team relations: know people, grow people
+2. monitor team for attrition risk, poor performance, succession planning, single points of failure
 3. engage meaningfully with partners and stakeholders
 4. learn the domain
 5. legal, finance, marketing, product, infra, security, support, operations
@@ -21,10 +23,13 @@
 5. drive architecture, improvement, tech debt, “push the envelope”
 6. performance monitoring, deal, other engagement
 
-## Rules for Success
-1. No questions too big, too small, too early, too awkward, but there are questions too late
-2. Own the work, be proactive, over-communicate – tell me what you need
-3. Prefer delegation of outcomes, not tasks
-4. Don’t wait for a formal meeting – speak up
-5. Take up space; you have more authority to act than you might think
-6. Trust and verify
+## Words of Wisdom
+1. Camera on. You'd be surprised what a difference this makes. (No one can tell if you're unshowered, and no one cares about the chaos or mess behind you.)
+1. No question is too big, too small, too early, or too awkward, but a question **can** be too late.
+1. Own the work. Be proactive and over communicate.
+1. Prefer delegation of outcomes, not tasks.
+1. Don’t wait for a formal meeting invite to say what needs to be said.
+1. Take up space; you have more authority than you might think.
+1. Trust and verify.
+1. Catch people doing things _right_.
+1. Be a 360&deg; leader, I ~~don't always get things right~~ often get things wrong.
