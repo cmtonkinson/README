@@ -1,4 +1,6 @@
-## Core Values
+The sections & items below are all listed in no particular order (they use ordered lists only for ease of reference).
+
+## A. Core Values
 1. Respect
 2. Integrity
 3. Humility
@@ -6,30 +8,35 @@
 
 _(Is it too on-the-nose to point out the anagram H.I.R.E. hidden in that constellation of superlatives?)_
 
-## Strategic Objectives
-1. stronger team relations: know people, grow people
-2. monitor team for attrition risk, poor performance, succession planning, single points of failure
-3. engage meaningfully with partners and stakeholders
-4. learn the domain
-5. legal, finance, marketing, product, infra, security, support, operations
+## B. Strategic Objectives
+1. Stronger team relations: know people, grow people.
+2. Monitor team for attrition risk, poor performance, succession planning, single points of failure, etc.
+3. Learn the domain.
+4. Engage meaningfully with your business partners and stakeholders.
+5. "Peripheral disciplines" are crucial, too: legal, finance, marketing, product, infra, security, support, operations, etc. Make friends, learn what you can
 
-## Routine Tasks
-1. timesheet approvals
-    1. daily submission; approvals each Monday morning
-    2. submission last business day of the month; approval next business morning
-2. weekly report on primary workstreams – status, assignee, eta, issues/risks
-3. ensure proper tracking & capitalization of work
-4. production support oversight, KPIs & KPOs for platforms
-5. drive architecture, improvement, tech debt, “push the envelope”
-6. performance monitoring, deal, other engagement
+## C. Routine Tasks
+1. Timesheets
+    1. Submit by end of each day.
+    2. Approve for your team Monday (before noon ET).
+    3. Submit on the last business day of the month.
+    4. Approve for your team on the first business day of the month (before noon ET).
+2. Submit a weekly status report by EoD Friday. Minimally include {status, assignee, ETA, issues/risks, notes} for each major workstream, and any other KPI's for your specific area(s).
+3. Ensure proper flow, tracking, and capitalization of work effort.
+4. Provide oversight for production support and KPIs/KPOs for your platform(s).
+5. Drive architecture, improvement initiatives, tech debt remediation, etc. We are technologists - push the envelope.
+6. Performance monitoring for team members.
+7. Respecting (read: enforcing) D.E.A.L., Shop Talk, Happy Hour, and other engagement activities.
 
-## Words of Wisdom
-1. Camera on. You'd be surprised what a difference this makes. (No one can tell if you're unshowered, and no one cares about the chaos or mess behind you.)
-1. No question is too big, too small, too early, or too awkward, but a question **can** be too late.
-1. Own the work. Be proactive and over communicate.
-1. Prefer delegation of outcomes, not tasks.
-1. Don’t wait for a formal meeting invite to say what needs to be said.
-1. Take up space; you have more authority than you might think.
-1. Trust and verify.
-1. Catch people doing things _right_.
-1. Be a 360&deg; leader, I ~~don't always get things right~~ often get things wrong.
+## D. Words of Wisdom
+1. For any hybrid or fully remote team, cameras on (in office or not. You'd be surprised what a difference this makes. (If at home, no one can tell if you're unshowered, and no one cares about the chaos or mess behind you.)
+2. No question is too big, too small, too early, or too awkward, but a question **can** be too late.
+3. Own the work. Be proactive and over communicate.
+4. Prefer delegation of outcomes, not tasks.
+5. Don’t wait for a formal meeting invite to say what needs to be said.
+6. Take up space; you have more authority than you might think.
+7. Trust and verify.
+8. Catch people doing things _right_.
+9. Be a 360&deg; leader, I ~~don't always get things right~~ often get things wrong.
+10. To your directs, you _are_ The Company&trade;. Keep that in mind as you interact, particularly as you respond to questions and concerns.
+11. No bad surprises: if something is going downhill, speak up sooner than later. Attack the problem when it's small.
