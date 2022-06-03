@@ -11,7 +11,7 @@ _(Is it too on-the-nose to point out the anagram H.I.R.E. hidden in that constel
 ## B. Strategic Objectives
 1. Stronger team relations: know people, grow people.
 2. Monitor team for attrition risk, poor performance, succession planning, single points of failure, etc.
-3. Learn the domain.
+3. Learn the domain. Follow the market.
 4. Engage meaningfully with your business partners and stakeholders.
 5. "Peripheral disciplines" are crucial, too: legal, finance, marketing, product, infra, security, support, HR, operations, etc. Make friends, learn everything you can.
 
