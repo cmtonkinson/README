@@ -41,3 +41,9 @@ _(Is it too on-the-nose to point out the anagram H.I.R.E. hidden in that constel
 10. To your directs, you _are_ The Company&trade;. Keep that in mind as you interact, particularly as you respond to questions and concerns.
 11. No bad surprises: if something is going downhill, speak up sooner than later. Attack the problem when it's small.
 12. Work to be the smartest technologist in the room and always assume you're not.
+
+## E. Rules for Debate (brainstorming, ideation, troubleshooting, etc.)
+1. Reserve judgement
+2. Raise alternatives, not protests
+3. You are not your ideas
+4. Always converse at a round table
