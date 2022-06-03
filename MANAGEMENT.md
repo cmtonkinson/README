@@ -47,3 +47,14 @@ _(Is it too on-the-nose to point out the anagram H.I.R.E. hidden in that constel
 2. Raise alternatives, not protests
 3. You are not your ideas
 4. Always converse at a round table
+
+## F. Should I Tell/Ask my Boss about `$problem`?
+"Go to your boss with solutions, not problems" is a common pearl of wisdom. While pithy (and usually helpful), it's not always practical. Here's my algorithm _in order!_ for how to approach this:
+
+1. If I can solve the problem myself, and my boss really doesn't care or need to know, I solve the problem myself.
+2. If I can solve the problem myself, and my boss should be made aware, I solve the problem myself, then inform my boss at the appropriate time.
+3. If I can solve the problem myself, but require approval to do so, I present my boss with my proposed solution for approval (along with any relevant context for having arrived at that recommendation).
+4. If I am not certain how to solve the problem but have some ideas, I present my boss with a brief problem statement and the option(s) in mind (with any relevant context) for guidance.
+5. If I truly have no idea how to attack the problem, I present the problem to my boss in the form of a question to illicit guidance / direction / feedback.
+
+In no case do I recommend simply dumping the problem at your boss's proverbial feet with a blank stare ;-)
