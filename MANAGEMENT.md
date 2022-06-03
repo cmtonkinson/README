@@ -13,7 +13,7 @@ _(Is it too on-the-nose to point out the anagram H.I.R.E. hidden in that constel
 2. Monitor team for attrition risk, poor performance, succession planning, single points of failure, etc.
 3. Learn the domain.
 4. Engage meaningfully with your business partners and stakeholders.
-5. "Peripheral disciplines" are crucial, too: legal, finance, marketing, product, infra, security, support, operations, etc. Make friends, learn what you can
+5. "Peripheral disciplines" are crucial, too: legal, finance, marketing, product, infra, security, support, HR, operations, etc. Make friends, learn everything you can.
 
 ## C. Routine Tasks
 1. Timesheets
@@ -40,3 +40,4 @@ _(Is it too on-the-nose to point out the anagram H.I.R.E. hidden in that constel
 9. Be a 360&deg; leader, I ~~don't always get things right~~ often get things wrong.
 10. To your directs, you _are_ The Company&trade;. Keep that in mind as you interact, particularly as you respond to questions and concerns.
 11. No bad surprises: if something is going downhill, speak up sooner than later. Attack the problem when it's small.
+12. Work to be the smartest technologist in the room and always assume you're not.
